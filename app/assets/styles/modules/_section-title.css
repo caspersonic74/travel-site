@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .section-title {
+=======
+.section-title{
+>>>>>>> our-features
   font-size: 2.55rem;
   font-weight: 300;
   text-align: center;
@@ -8,7 +12,11 @@
   }
 
   strong {
+<<<<<<< HEAD
     font-weight: 500;
+=======
+    font-weight:500;
+>>>>>>> our-features
   }
 
   &__icon {
@@ -24,5 +32,9 @@
       display: inline-block;
     }
   }
+<<<<<<< HEAD
 
 }
+=======
+}
+>>>>>>> our-features

@@ -18,7 +18,11 @@
     padding-right: 100px;
   }
 
+<<<<<<< HEAD
   &__b-margin-until-medium {
+=======
+  &__b-margin-until-medium{
+>>>>>>> our-features
     margin-bottom: 1rem;
   }
 
@@ -37,12 +41,20 @@
       width: 37%;
     }
 
+<<<<<<< HEAD
     &__medium-6 {
+=======
+    &__medium-6{
+>>>>>>> our-features
       float: left;
       width: 50%;
     }
 
+<<<<<<< HEAD
     &__medium-8 {
+=======
+    &__medium-8{
+>>>>>>> our-features
       float: left;
       width: 66.66%;
     }

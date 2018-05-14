@@ -7,7 +7,11 @@
   }
 
   &__icon {
+<<<<<<< HEAD
     display: block;
+=======
+    display:block;
+>>>>>>> our-features
     margin: 0 auto;
 
     @mixin atSmall {
@@ -23,6 +27,7 @@
     margin-bottom: .8rem;
     text-align: center;
 
+<<<<<<< HEAD
     @mixin atSmall {
       text-align: left;
       margin-top: 1em;
@@ -30,3 +35,13 @@
     }
   }
 }
+=======
+     @mixin atSmall {
+       margin-top: 1em;
+      font-size: 1.875rem;
+      text-align: left;
+    }
+  }
+
+  }
+>>>>>>> our-features
