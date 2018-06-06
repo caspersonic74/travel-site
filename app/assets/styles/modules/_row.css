@@ -80,7 +80,7 @@
       width: 37%;
     }
 
-    &__largem-6 {
+    &__large-6 {
       float: left;
       width: 50%;
     }
@@ -95,7 +95,7 @@
     }
 
   }
-
+  
   /* Begin Equal Height Rules */
   &--equal-height-at-medium {
     @mixin atMedium {
